@@ -1,0 +1,8 @@
+.background-img{
+    background-image: url(images/76847349.jpg);
+    /* background-size: contain; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* width: 200px; */
+    height: 100vh;
+}
